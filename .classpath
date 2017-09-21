@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="E:/workspace/WrittenExaminationSystemLibs/BaiDuCharacterRecognition/aip-java-sdk-3.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/WrittenExaminationSystemLibs/BaiDuCharacterRecognition/json-20160810.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/WrittenExaminationSystemLibs/FastJSON/fastjson-1.2.38.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/WrittenExaminationSystemLibs/OuickServerJar/commons-beanutils.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/WrittenExaminationSystemLibs/OuickServerJar/commons-collections.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/WrittenExaminationSystemLibs/OuickServerJar/commons-digester.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/WrittenExaminationSystemLibs/OuickServerJar/commons-logging.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/WrittenExaminationSystemLibs/OuickServerJar/commons-pool.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/WrittenExaminationSystemLibs/OuickServerJar/metouia.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/WrittenExaminationSystemLibs/OuickServerJar/QSAdminGUI.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/WrittenExaminationSystemLibs/OuickServerJar/QuickServer.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/WrittenExaminationSystemLibs/OuickServerJar/QuickServerClient.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
